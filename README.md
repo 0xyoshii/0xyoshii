@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Welcome in my GitHub Profile!**
+**Welcome to my GitHub Profile!**
 
 I know **Python, Javascript, Typescript, React, HTML, CSS, C, C++** 💻
 
