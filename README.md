@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub Profile!**
 
-I know **Python, Javascript, Typescript, React, HTML, CSS, C, C++** 💻
+I'm proficient in **Python, Javascript, Typescript, React, HTML, CSS, C, C++** 💻
 
 You can find me on [Twitter](https://twitter.com/0xyoshii) or discord at yoshi#8888 😄
 
