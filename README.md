@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub Profile!**
 
-Can do stuff in **Python, Javascript, Typescript, React, SQL, HTML, CSS, LaTeX** 💻
+Can do stuff in **Python, Javascript, Typescript, React, SQL, LaTeX** 💻
 
 Blockchain enthusiast 🛠
 
